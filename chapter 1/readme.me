@@ -7,3 +7,36 @@ class Program
         Console.WriteLine("Hello World");
     }
 }
+
+IL EQUIVALENT
+
+.assembly HelloWorld
+{
+}
+
+.assembly extern mscorlib
+{
+}
+
+.module HelloWorld.exe
+
+.class private auto ansi Program
+       extends [mscorlib]System.Object
+{
+    .method private hidebysig static void Main() cil managed
+    {
+        .entrypoint
+
+        ldstr      "Hello World"
+        call       void [mscorlib]System.Console::WriteLine(string)
+        ret
+    }
+
+    .method public hidebysig specialname rtspecialname
+            instance void .ctor() cil managed
+    {
+        ldarg.0
+        call instance void [mscorlib]System.Object::.ctor()
+        ret
+    }
+}
