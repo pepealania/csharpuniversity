@@ -1,26 +1,3 @@
-Memory diagram:
+# Application Runtime Memory
 
- ┌────────────────────────────────────────────────────────────────────────┐
- │                      APPLICATION RUNTIME MEMORY                        │
- └────────────────────────────────────────────────────────────────────────┘
-                                     │
-      ┌──────────────────────────────┴──────────────────────────────┐
-      ▼                                                             ▼
-┌────────────────────────────────┐             ┌────────────────────────────────┐
-│           THE STACK            │             │           THE HEAP             │
-├────────────────────────────────┤             ├────────────────────────────────┤
-│  [Main Method Stack Frame]     │             │  [Normal Managed Heap]         │
-│                                │             │                                │
-│  age    = 25                   │             │  ┌──────────────────────────┐  │
-│  (Value Type - 4 bytes)        │             │  │ "John"                   │  │
-│                                │             │  │                          │  │
-│  salary = 50000.50             │             │  │ (The actual string text  │  │
-│  (Value Type - 8 bytes)        │             │  │  lives safely here)      │  │
-│                                │             │  └──────────────────────────┘  │
-│  name   = [Memory Address] ────┼────────────►│                ▲               │
-│  (Reference Pointer)           │             │                │               │
-│                                │             │                │               │
-└────────────────────────────────┘             └────────────────┼───────────────┘
-                                                                │
-                                                                │
-                                             (Cleaned up later by the GC)
+<img width="641" height="541" alt="image" src="https://github.com/user-attachments/assets/47608c53-4aeb-4d41-bf6b-9fbee29d224e" />
