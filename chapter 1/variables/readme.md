@@ -1,3 +1,5 @@
+
+```csharp
 using System;
 
 class Program
@@ -13,6 +15,7 @@ class Program
         Console.WriteLine(salary);
     }
 }
+```
 
 # Application Runtime Memory
 
