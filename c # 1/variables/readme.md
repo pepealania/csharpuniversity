@@ -85,6 +85,27 @@ class Program
 
 <img width="626" height="569" alt="image" src="https://github.com/user-attachments/assets/8744f905-a06b-4906-a0f3-e3f25c042d12" />
 
+Exercise 3: static string global variable.
+
+```
+using System;
+
+class Program
+{
+    static string springIdea = "be good"; 
+
+    static void Main()
+    {
+        double salary = 50000.50;
+        string name = "John";
+
+        Console.WriteLine(name);
+        Console.WriteLine(age);
+        Console.WriteLine(salary);
+    }
+}
+```
+<img width="476" height="477" alt="image" src="https://github.com/user-attachments/assets/ea66e39c-265a-4662-97aa-3931a21e5d9a" />
 
 
 
