@@ -100,7 +100,6 @@ class Program
         string name = "John";
 
         Console.WriteLine(name);
-        Console.WriteLine(age);
         Console.WriteLine(salary);
     }
 }
