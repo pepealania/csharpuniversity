@@ -1,6 +1,6 @@
-# C# From Zero to Hero: Master Advanced Programming Paradigms
+# The C# University: Master Advanced Programming Paradigms
 
-Welcome to the official GitHub repository for the Udemy course **"C# From Zero to Hero: Master Advanced Programming Paradigms"**. 
+Welcome to the official GitHub repository for the Udemy course **"The C# University"**. 
 
 This repository contains all the starting templates, step-by-step branch checkpoints, and final completed source code used throughout the course modules.
 
@@ -52,16 +52,16 @@ If you get stuck on a coding challenge or encounter a compiler error:
 
 ## ⚖️ License & Copyright
 
-Copyright (c) 2026 [Your Name / Company Name]. All rights reserved.
+Copyright (c) 2026 The C# University. All rights reserved.
 
 This repository and its source code are licensed under the **GNU General Public License v3.0 (GPLv3)**. 
 
 ### What This Means for Students:
-*   **Freedom to Learn & Experiment:** You are fully encouraged to copy, modify, modify, fork, and study this source code for your personal education, academic coursework, and hands-on practice.
+*   **Freedom to Learn & Experiment:** You are fully encouraged to copy, modify, fork, and study this source code for your personal education, academic coursework, and hands-on practice.
 *   **Copyleft Requirement:** If you choose to distribute modifications of this code, or use it to build a derivative software application, **your entire derivative project must also be open-sourced under the exact same GPLv3 license**.
 
 ### What This Means for Competing Instructors / Commercial Outlets:
-*   **Anti-Plagiarism Protection:** You are strictly forbidden from cloning, copying, re-branding, or adapting this course structure, curriculum, or source code code to bootstrap, sell, or host competing commercial programming courses, bootcamps, or educational products on Udemy or any other platform. Legal actions will be pursued for licensing violations.
+*   **Anti-Plagiarism Protection:** You are strictly forbidden from cloning, copying, re-branding, or adapting this course structure, curriculum, or source code to bootstrap, sell, or host competing commercial programming courses, bootcamps, or educational products under the name of "The C# University" or any other brand on Udemy or alternative platforms. Legal actions will be pursued for licensing violations.
 
 For the full legal details, please read the [LICENSE](LICENSE) file included in the root of this repository.
 
