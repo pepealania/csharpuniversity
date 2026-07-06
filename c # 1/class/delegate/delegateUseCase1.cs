@@ -1,3 +1,38 @@
+public class Product
+{
+    public string Name;
+    public double Price;
+    public int Stock;
+
+    public Product(string name, double price, int stock)
+    {
+        this.Name = name;
+        this.Price = price;
+        this.Stock = stock;
+    }
+}
+
+// The delegate argument definition: 
+// "Give me any product, and I will tell you true or false if it matches my rule."
+public delegate bool ProductFilterRule(Product p);
+
+public class InventoryManager
+{
+    // Note how the delegate is passed directly as a method argument
+    public static void PrintMatchingProducts(Product[] inventory, ProductFilterRule rule)
+    {
+        for (int i = 0; i < inventory.Length; i++)
+        {
+            // Execute the injected delegate argument
+            if (rule(inventory[i]) == true)
+            {
+                System.Console.WriteLine("Match found: " + inventory[i].Name);
+            }
+        }
+    }
+}
+
+public class Program
 {
     // Rule 1: Concrete target method for cheap items
     public static bool IsCheap(Product p)
