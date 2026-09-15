@@ -1,4 +1,4 @@
-# The CSharp University: Master Advanced Programming Paradigms
+# The CSharp University: The Complete C# Language Journey
 
 Welcome to the official GitHub repository for the Udemy course **"The CSharp University"**. 
 
