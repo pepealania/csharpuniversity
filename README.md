@@ -111,7 +111,7 @@ If you get stuck on a coding challenge or encounter a compiler error:
 
 ## ⚖️ License & Copyright
 
-Copyright (c) 2026 The C# University. All rights reserved.
+Copyright (c) 2026 The CSharp University. All rights reserved.
 
 This repository and its source code are licensed under the **GNU General Public License v3.0 (GPLv3)**. 
 
@@ -120,7 +120,7 @@ This repository and its source code are licensed under the **GNU General Public 
 *   **Copyleft Requirement:** If you choose to distribute modifications of this code, or use it to build a derivative software application, **your entire derivative project must also be open-sourced under the exact same GPLv3 license**.
 
 ### What This Means for Competing Instructors / Commercial Outlets:
-*   **Anti-Plagiarism Protection:** You are strictly forbidden from cloning, copying, re-branding, or adapting this course structure, curriculum, or source code to bootstrap, sell, or host competing commercial programming courses, bootcamps, or educational products under the name of "The C# University" or any other brand on Udemy or alternative platforms. Legal actions will be pursued for licensing violations.
+*   **Anti-Plagiarism Protection:** You are strictly forbidden from cloning, copying, re-branding, or adapting this course structure, curriculum, or source code to bootstrap, sell, or host competing commercial programming courses, bootcamps, or educational products under the name of "The CSharp University" or any other brand on Udemy or alternative platforms. Legal actions will be pursued for licensing violations.
 
 For the full legal details, please read the [LICENSE](LICENSE) file included in the root of this repository.
 
