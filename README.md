@@ -8,12 +8,71 @@ This repository contains all the starting templates, step-by-step branch checkpo
 
 To help you follow along easily, this repository is organized by modules. You can switch between branches using the GitHub branch dropdown or via your terminal.
 
-*   `main` — The final completed solution of the entire project application.
-*   `module-01-start` / `module-01-final` — Introduction to C# Delegates & Events.
-*   `module-02-start` / `module-02-final` — Generics and Memory Management (C# 2.0).
-*   `module-03-start` / `module-03-final` — Functional Paradigms, Lambdas, and LINQ (C# 3.0 & 4.0).
-*   `module-04-start` / `module-04-final` — Asynchronous Streams and State Machines (C# 5.0 - 8.0).
-*   `module-05-start` / `module-05-final` — Clean Architecture & Functional Records (C# 9.0+).
+## 🚀 Course Structure & C# Levels
+
+The repository is organized into **14 C# levels**, with each folder representing a major version of the language:
+
+*   `c# 1` — C# Foundations: Types, Classes, Structs, Interfaces, Delegates & Events.
+*   `c# 2` — Generics & Iterators: Generics, Nullable Value Types, `yield`, Anonymous Methods & Generic Collections.
+*   `c# 3` — Functional Programming & LINQ: Lambda Expressions, LINQ, Extension Methods, Anonymous Types & Expression Trees.
+*   `c# 4` — Dynamic Programming & Variance: `dynamic`, Named/Optional Arguments, COM Interop, Covariance & Contravariance.
+*   `c# 5` — Asynchronous Programming: `async`, `await`, `Task`, Asynchronous Methods & State Machines.
+*   `c# 6` — Expressive C#: String Interpolation, Null-Conditional Operators, `nameof`, Expression-Bodied Members & Exception Filters.
+*   `c# 7` — Advanced Language Features: Tuples, Deconstruction, Pattern Matching, Local Functions, `ref` Returns & `ValueTuple`.
+*   `c# 8` — Nullable Reference Types & Async Streams: Nullable Reference Types, `IAsyncEnumerable<T>`, Ranges, Indexes & Default Interface Methods.
+*   `c# 9` — Records & Modern Object Models: Records, `init`, `with` Expressions, Top-Level Statements & Advanced Pattern Matching.
+*   `c# 10` — Global Usings & File-Scoped Namespaces: Global `using`, File-Scoped Namespaces, Record Structs & Improved Lambdas.
+*   `c# 11` — Generic Math & Advanced Patterns: Raw String Literals, Required Members, List Patterns & Static Abstract Interface Members.
+*   `c# 12` — Primary Constructors & Collection Expressions: Primary Constructors, Collection Expressions, Spread Elements & Inline Arrays.
+*   `c# 13` — Advanced Generics & Performance: `params` Collections, Improved `lock`, `ref struct` Interfaces & Partial Properties.
+*   `c# 14` — Modern C#: Extension Members, Extension Blocks, the `field` Keyword, Null-Conditional Assignment & Modern `Span<T>` Support.
+
+### The Evolution of C#
+
+The course follows the progression of ideas across the language:
+
+```text
+C# 1
+  └── Delegates & Events
+        ↓
+C# 2
+  └── Generics & Anonymous Methods
+        ↓
+C# 3
+  └── Lambdas & LINQ
+        ↓
+C# 4
+  └── Variance & Dynamic Programming
+        ↓
+C# 5
+  └── async / await
+        ↓
+C# 6
+  └── More Expressive Syntax
+        ↓
+C# 7
+  └── Tuples & Pattern Matching
+        ↓
+C# 8
+  └── Nullable Reference Types & Async Streams
+        ↓
+C# 9
+  └── Records
+        ↓
+C# 10
+  └── Global Usings & File-Scoped Namespaces
+        ↓
+C# 11
+  └── Generic Math & Advanced Patterns
+        ↓
+C# 12
+  └── Primary Constructors & Collection Expressions
+        ↓
+C# 13
+  └── Advanced Generics & Performance
+        ↓
+C# 14
+  └── Extension Members & Modern C#
 
 ## 🛠️ Getting Started
 
