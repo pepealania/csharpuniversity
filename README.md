@@ -1,6 +1,6 @@
-# The C# University: Master Advanced Programming Paradigms
+# The CSharp University: Master Advanced Programming Paradigms
 
-Welcome to the official GitHub repository for the Udemy course **"The C# University"**. 
+Welcome to the official GitHub repository for the Udemy course **"The CSharp University"**. 
 
 This repository contains all the starting templates, step-by-step branch checkpoints, and final completed source code used throughout the course modules.
 
