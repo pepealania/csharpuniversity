@@ -4,15 +4,15 @@
 
 Welcome to **The CSharp University** — an educational space dedicated to learning, understanding, and mastering the **C# ecosystem**.
 
-The C# University is designed to bring together courses, learning paths, examples, experiments, projects, and educational resources covering the world of **C# and .NET**.
+The CSharp University is designed to bring together courses, learning paths, examples, experiments, projects, and educational resources covering the world of **C# and .NET**.
 
-Whether you are discovering C# for the first time, exploring advanced programming concepts, or studying the evolution of the language, The C# University is a place to learn, practice, and grow.
+Whether you are discovering C# for the first time, exploring advanced programming concepts, or studying the evolution of the language, The CSharp University is a place to learn, practice, and grow.
 
 ---
 
-## 🎓 What Is The C# University?
+## 🎓 What Is The CSharp University?
 
-**The C# University is a place where you can find education across the C# ecosystem.**
+**The CSharp University is a place where you can find education across the C# ecosystem.**
 
 Our goal is to create a structured learning environment where developers can progressively move from programming fundamentals to advanced C# and .NET concepts.
 
@@ -46,7 +46,7 @@ The ecosystem includes topics such as:
 
 The C# ecosystem is much larger than the C# language itself.
 
-The C# University approaches learning as a journey through multiple layers:
+The CSharp University approaches learning as a journey through multiple layers:
 
 ```text
                     THE C# UNIVERSITY
@@ -76,12 +76,12 @@ The C# University approaches learning as a journey through multiple layers:
 ```
 ## ⚠️ Disclaimer
 
-The C# University is an independent educational initiative.
+The CSharp University is an independent educational initiative.
 
 **C#** and **.NET** are registered trademarks of **Microsoft Corporation**.
 
 **Visual Studio** and other Microsoft product names and logos are trademarks or registered trademarks of Microsoft Corporation, as applicable.
 
-The C# University is **not sponsored, endorsed, officially managed by, or affiliated with Microsoft Corporation**.
+The CSharp University is **not sponsored, endorsed, officially managed by, or affiliated with Microsoft Corporation**.
 
 All trademarks and registered trademarks mentioned in this repository belong to their respective owners and are used for identification and educational reference purposes only.
