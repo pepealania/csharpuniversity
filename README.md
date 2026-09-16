@@ -73,7 +73,7 @@ The C# University approaches learning as a journey through multiple layers:
                            │
                            ▼
                     REAL-WORLD SYSTEMS
-
+```
 ## ⚠️ Disclaimer
 
 The C# University is an independent educational initiative.
