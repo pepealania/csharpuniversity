@@ -73,3 +73,15 @@ The C# University approaches learning as a journey through multiple layers:
                            │
                            ▼
                     REAL-WORLD SYSTEMS
+
+## ⚠️ Disclaimer
+
+The C# University is an independent educational initiative.
+
+**C#** and **.NET** are registered trademarks of **Microsoft Corporation**.
+
+**Visual Studio** and other Microsoft product names and logos are trademarks or registered trademarks of Microsoft Corporation, as applicable.
+
+The C# University is **not sponsored, endorsed, officially managed by, or affiliated with Microsoft Corporation**.
+
+All trademarks and registered trademarks mentioned in this repository belong to their respective owners and are used for identification and educational reference purposes only.
