@@ -1,6 +1,6 @@
 # The CSharp University: The Complete C# Language Journey
 
-Welcome to the official GitHub repository for the Udemy course **"The CSharp University"**. 
+Welcome to the official GitHub repository for the Udemy course **"The Complete C# Language Journey"**. 
 
 This repository contains all the starting templates, step-by-step branch checkpoints, and final completed source code used throughout the course modules.
 
@@ -120,7 +120,7 @@ This repository and its source code are licensed under the **GNU General Public 
 *   **Copyleft Requirement:** If you choose to distribute modifications of this code, or use it to build a derivative software application, **your entire derivative project must also be open-sourced under the exact same GPLv3 license**.
 
 ### What This Means for Competing Instructors / Commercial Outlets:
-*   **Anti-Plagiarism Protection:** You are strictly forbidden from cloning, copying, re-branding, or adapting this course structure, curriculum, or source code to bootstrap, sell, or host competing commercial programming courses, bootcamps, or educational products under the name of "The CSharp University" or any other brand on Udemy or alternative platforms. Legal actions will be pursued for licensing violations.
+*   **Anti-Plagiarism Protection:** You are strictly forbidden from cloning, copying, re-branding, or adapting this course structure, curriculum, or source code to bootstrap, sell, or host competing commercial programming courses, bootcamps, or educational products under the name of "The CSharp University" or "The Complete C# Language Journey" or any other brand on Udemy or alternative platforms. Legal actions will be pursued for licensing violations.
 
 For the full legal details, please read the [LICENSE](LICENSE) file included in the root of this repository.
 
