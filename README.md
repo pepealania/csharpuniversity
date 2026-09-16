@@ -1,8 +1,8 @@
-# The C# University
+# The CSharp University
 
 ## Your Home for C# and .NET Education
 
-Welcome to **The C# University** — an educational space dedicated to learning, understanding, and mastering the **C# ecosystem**.
+Welcome to **The CSharp University** — an educational space dedicated to learning, understanding, and mastering the **C# ecosystem**.
 
 The C# University is designed to bring together courses, learning paths, examples, experiments, projects, and educational resources covering the world of **C# and .NET**.
 
